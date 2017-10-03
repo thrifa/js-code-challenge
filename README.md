@@ -1,6 +1,12 @@
-# Thrifa js-code-challenge
-Hello and Welcome.  Below are necessary information to get started on the challenge.
+## Thrifa js-code-challenge
+Hello and welcome.  This interview process includes 4 steps total. The goal of this challenge is to demonstrate your team ability to translate our requirements into a product, while following the git flow. We have specifically designed the code challenge to be simple so you can spend more time on designs and documentations.  The team who met all of our criteria will be awarded with Thrifa long-term partnership contract (1 year duration).  You will find the full description in the hyper link below.  Good luck and let's roll! 
 
-- Challenge description and specifications: https://docs.google.com/document/d/1FDpeDsiYKJX1NsVIGzyidU-rzFLEVPxvvqJ2EgttxbQ/edit?usp=sharing
-- Design assets available at `Questions/Create Screen` 
-- Contact Quang upon completion 
+### Designs 
+- Design assets available at `Questions/Create Screen.png` in the root of this repo.
+- Design for reference only.  Feel free to come up with your own as long as the requirements are met.
+
+### Challenge 
+1.  Submit the following questions. 
+2.  Submit milestone planning.
+3.  Submit code challenge.
+4.  We will review your code, plans, git issues and commit history and respond with our decision. 
