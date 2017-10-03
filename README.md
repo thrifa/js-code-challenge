@@ -6,7 +6,7 @@ Hello and welcome.  This interview process includes 4 steps total. The goal of t
 - Design for reference only.  Feel free to come up with your own as long as the requirements are met.
 
 ### Challenge 
-1.  Submit the following questions. 
-2.  Submit milestone planning.
-3.  Submit code challenge.
+1.  Submit the following [questions](https://github.com/thrifa/js-code-challenge/issues/1). 
+2.  Submit [milestone planning](https://github.com/thrifa/js-code-challenge/issues/2).
+3.  Submit [code challenge](https://github.com/thrifa/js-code-challenge/issues/3).
 4.  We will review your code, plans, git issues and commit history and respond with our decision. 
